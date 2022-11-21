@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>博客写作指南</title>
+      <link href="/2022/11/hexo-writing/"/>
+      <url>/2022/11/hexo-writing/</url>
+      
+        <content type="html"><![CDATA[<h1 id="博客参考资料"><a href="#博客参考资料" class="headerlink" title="博客参考资料"></a>博客参考资料</h1><h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><ul><li><a href="https://hexo.io/zh-cn/docs/commands.html">hexo new 的用法</a></li></ul><p><code>hexo new page --path gallery/wallpapers &quot;壁纸&quot;</code></p><h3 id="使用-Emoji"><a href="#使用-Emoji" class="headerlink" title="使用 Emoji"></a>使用 Emoji</h3><p>直接插入就好了，最好不要更改原主题的设置</p><h2 id="Butterfly-主题"><a href="#Butterfly-主题" class="headerlink" title="Butterfly 主题"></a>Butterfly 主题</h2><h3 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h3><p><code>butterfly/source/css/var.styl</code></p><p>这里有变量的定义，比如这个<code>$anchor-button-icon = hexo-config(&#39;anchor.button.icon&#39;) ? hexo-config(&#39;anchor.button.icon&#39;) : &#39;\f0c1&#39;</code></p><h3 id="图库"><a href="#图库" class="headerlink" title="图库"></a>图库</h3><ul><li><p><a href="https://butterfly.js.org/posts/dc584b87/#%E5%9C%96%E5%BA%AB">图库配置说明</a></p></li><li><p><a href="https://butterfly.js.org/posts/4aa8abbe/#Gallery%E7%9B%B8%E5%86%8A">图库的使用</a></p></li></ul><h3 id="写作模板"><a href="#写作模板" class="headerlink" title="写作模板"></a>写作模板</h3><h4 id="块标签"><a href="#块标签" class="headerlink" title="块标签"></a>块标签</h4><p><a href="https://butterfly.js.org/posts/2df239ce/#%E6%96%B9%E6%B3%95%E4%B8%80">参考</a></p><div class="note green icon-padding flat"><i class="note-icon fas fa-check-square"></i><p>TODO</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hello-world</title>
+      <link href="/2022/11/hello-world/"/>
+      <url>/2022/11/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Hi!</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
